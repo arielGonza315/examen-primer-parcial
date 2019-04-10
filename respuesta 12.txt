@@ -1,0 +1,4 @@
+TRISC |= 0X0F;
+TRISC &= ~0XF0;
+(ANSELH &= ~0XFF; el anselh no se ocupa por que el puerto c es digital
+y no es necesario cambiarlo de analogico a digital)

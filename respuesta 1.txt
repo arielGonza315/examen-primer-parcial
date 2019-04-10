@@ -1,0 +1,9 @@
+un micro controlador es un conjunto de perifericos 
+como 
+spi
+timer 1
+timer 2 
+csp 1 (captura comparacion) 
+csp2
+PWM
+(SCL,SDO,SDA)que es parte del SPI

@@ -1,0 +1,9 @@
+¿Qué conjunto de instrucciones (ISA) usa?
+es una lista de 35 (INSTRUCIONES) operaciones que nuestro micro controlador puede ralizar 
+
+
+¿Qué rango de frecuencias puede generar el oscilador interno?
+20 MHz
+
+¿Cuántos bytes de RAM tiene específicamente el PIC16F886?
+8kbytes
